@@ -1,0 +1,12 @@
+h2.intro {
+color: rgb(27, 131, 150);
+}
+
+p.intro {
+font-family: Georgia;
+}
+
+img.intro {
+  height: 400px;
+  width: 400px;
+}
