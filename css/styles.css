@@ -1,9 +1,7 @@
-h2.intro {
+div.intro {
 color: rgb(27, 131, 150);
-}
-
-p.intro {
 font-family: Georgia;
+font-size: 10;
 }
 
 img.intro {
